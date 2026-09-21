@@ -1,0 +1,1 @@
+codex-theme-v1:{"codeThemeId":"sentry","theme":{"accent":"#6a5fc1","accentSource":"custom","contrast":46,"fonts":{"code":null,"ui":null},"ink":"#ececf1","opaqueWindows":true,"semanticColors":{"diffAdded":"#7db6a0","diffRemoved":"#e1567c","skill":"#c4a7cb"},"surface":"#211d2b"},"variant":"dark"}
